@@ -60,20 +60,20 @@ The aim of our project under the `Single-Spa-Microfrontends` organization is to 
 
    Ensure that each app runs on its specified port (e.g., root-config on 9000, React Navbar on 9001, etc.)
 
-# To start the Root-config on port 9000:
-npm start -- --port 9000
+### To start the Root-config on port 9000:
+`npm start -- --port 9000`
 
-# To start the React Navbar app on port 9001:
-npm start -- --port 9001
+### To start the React Navbar app on port 9001:
+`npm start -- --port 9001`
 
-# To start the Angular Legacy v11 app on port 9002:
-npm start -- --port 9002
+### To start the Angular Legacy v11 app on port 9002:
+`npm start -- --port 9002`
 
-# To start the Angular New App v16 on port 9003:
-npm start -- --port 9003
+### To start the Angular New App v16 on port 9003:
+`npm start -- --port 9003`
 
-# To start the Styleguide app on port 9004:
-npm start -- --port 9004
+### To start the Styleguide app on port 9004:
+`npm start -- --port 9004`
 
 ## Future Endeavors
 
