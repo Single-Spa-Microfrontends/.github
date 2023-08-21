@@ -44,36 +44,30 @@ The aim of our project under the `Single-Spa-Microfrontends` organization is to 
 3. For each repository:
    1. Navigate to the repo's root directory.
    2. Install the necessary dependencies:
-      ```
-      npm install
-      ```
 
 4. For the Angular v11 legacy app, ensure you're using Node v16 and install the specific Angular CLI version:
    ```
    npm install -g @angular/cli@11
    ```
 
-5. Start each application by running the appropriate npm script, usually:
-   ```
-   npm start
-   ```
+5. Start each application by running the appropriate npm script.
 
    Ensure that each app runs on its specified port (e.g., root-config on 9000, React Navbar on 9001, etc.)
 
 ### To start the Root-config on port 9000:
-`npm start -- --port 9000`
+`pnpm start -- --port 9000`
 
 ### To start the React Navbar app on port 9001:
-`npm start -- --port 9001`
+`pnpm start -- --port 9001`
 
 ### To start the Angular Legacy v11 app on port 9002:
-`npm start -- --port 9002`
+`yarn start -- --port 9002`
 
 ### To start the Angular New App v16 on port 9003:
-`npm start -- --port 9003`
+`pnpm start -- --port 9003`
 
 ### To start the Styleguide app on port 9004:
-`npm start -- --port 9004`
+`pnpm start -- --port 9004`
 
 ## Future Endeavors
 
