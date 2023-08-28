@@ -76,3 +76,7 @@ Our team aims to continually refine this project and showcase even more advanced
 ---
 
 **Note**: Microfrontends provide a scalable architecture, especially for large projects or teams. It facilitates independent development, testing, and deployment, making the development lifecycle more efficient. We hope our initiative showcases its potential and encourages its adoption.
+
+---
+
+![high_level_architecture.drawio.svg](https://github.com/Single-Spa-Microfrontends/.github/blob/main/high_level_architecture.drawio.svg)
