@@ -52,23 +52,15 @@ The aim of our project under the `Single-Spa-Microfrontends` organization is to 
 
 5. Start each application by running the appropriate npm script.
 
-   Ensure that each app runs on its specified port (e.g., root-config on 9000, React Navbar on 9001, etc.)
+   ```
+   pnpm start
+   ```
 
-### To start the Root-config on port 9000:
-`pnpm start -- --port 9000`
+   Angular Legacy
 
-### To start the React Navbar app on port 9001:
-`pnpm start -- --port 9001`
-
-### To start the Angular Legacy v11 app on port 9002:
-`yarn start -- --port 9002`
-
-### To start the Angular New App v16 on port 9003:
-`pnpm start -- --port 9003`
-
-### To start the Styleguide app on port 9004:
-`pnpm start -- --port 9004`
-
+   ```
+   yarn start
+   ```
 ## Future Endeavors
 
 Our team aims to continually refine this project and showcase even more advanced functionalities and integrations. We're also working towards deploying this setup on GCP for a live proof-of-concept. Feedback, contributions, and suggestions are always welcome!
