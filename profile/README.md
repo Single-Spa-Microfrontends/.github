@@ -72,3 +72,4 @@ Our team aims to continually refine this project and showcase even more advanced
 ---
 
 ![high_level_architecture.drawio.svg](https://github.com/Single-Spa-Microfrontends/.github/blob/main/high_level_architecture.drawio.svg)
+![high_level_micro_apps_updates.drawio.svg](https://raw.githubusercontent.com/Single-Spa-Microfrontends/.github/main/micrfrontend-update-representation.drawio.svg)
